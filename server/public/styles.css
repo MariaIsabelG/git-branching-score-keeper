@@ -19,8 +19,19 @@ header {
 
 .team1 {
   background-color: tomato;
+  border-radius: 15px;
+  text-align: center;
 }
 
 .team2 {
   background-color: plum;
+  border-radius: 15px;
+  text-align: center;
+}
+.team-name{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.title{
+  border: 2px dashed black
 }
